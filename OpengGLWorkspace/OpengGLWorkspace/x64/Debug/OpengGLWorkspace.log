@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\10kmm\Desktop\labs\OpengGLWorkspace\OpengGLWorkspace\main.cpp(139,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\10kmm\Desktop\labs\OpengGLWorkspace\OpengGLWorkspace\main.cpp(140,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\10kmm\Desktop\labs\OpengGLWorkspace\OpengGLWorkspace\main.cpp(141,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\10kmm\Desktop\labs\OpengGLWorkspace\OpengGLWorkspace\main.cpp(142,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\10kmm\Desktop\labs\OpengGLWorkspace\OpengGLWorkspace\main.cpp(143,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\10kmm\Desktop\labs\OpengGLWorkspace\OpengGLWorkspace\main.cpp(144,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\10kmm\Desktop\labs\OpengGLWorkspace\OpengGLWorkspace\main.cpp(158,33): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  OpengGLWorkspace.vcxproj -> C:\Users\10kmm\Desktop\labs\OpengGLWorkspace\x64\Debug\OpengGLWorkspace.exe
